@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hymnihomericiacc00homeuoft_0121.png"; bbox 0 0 1619 2556; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 89 113 1591 420">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 89 113 1591 420">
+     <span class='ocr_line' id='line_1_1' title="bbox 89 113 1591 210; baseline -0.005 -2"><span class='ocrx_word' id='word_1_1' title='bbox 89 139 1527 210; x_wconf 66' lang='lat' dir='ltr'>B.G.TEUBNERSVERZEICHNISVON</span> <span class='ocrx_word' id='word_1_2' title='bbox 1586 113 1591 117; x_wconf 75' lang='grc'><em>“</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 94 246 1528 315; baseline -0.005 0"><span class='ocrx_word' id='word_1_3' title='bbox 94 251 579 315; x_wconf 72' lang='lat' dir='ltr'>AUSGABEN</span> <span class='ocrx_word' id='word_1_4' title='bbox 606 246 1309 313; x_wconf 58' lang='lat' dir='ltr'>GRIEOHISCHER</span> <span class='ocrx_word' id='word_1_5' title='bbox 1338 246 1528 309; x_wconf 83' lang='lat' dir='ltr'>UND</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 91 351 1533 420; baseline -0.005 0"><span class='ocrx_word' id='word_1_6' title='bbox 91 356 745 420; x_wconf 71' lang='lat' dir='ltr'><strong>LATEINISCHER</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 767 351 1533 418; x_wconf 67' lang='lat' dir='ltr'><strong>sel-IROETSTELLER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 436 759 1192 1767">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 436 759 1192 1767">
+     <span class='ocr_line' id='line_1_4' title="bbox 436 759 1192 1767; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 436 759 1192 1767; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 193 2099 1431 2194">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 193 2099 1431 2194">
+     <span class='ocr_line' id='line_1_5' title="bbox 193 2099 1431 2194; baseline -0.001 -1"><span class='ocrx_word' id='word_1_9' title='bbox 193 2099 569 2194; x_wconf 62' lang='lat' dir='ltr'><strong>VERLAG</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 596 2130 789 2193; x_wconf 76' lang='lat' dir='ltr'>VON</span> <span class='ocrx_word' id='word_1_11' title='bbox 816 2132 883 2193; x_wconf 81' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_12' title='bbox 906 2130 978 2193; x_wconf 70' lang='lat' dir='ltr'>G.</span> <span class='ocrx_word' id='word_1_13' title='bbox 997 2130 1431 2194; x_wconf 79' lang='lat' dir='ltr'>TEUBNER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 407 2229 1211 2429">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 407 2229 1211 2429">
+     <span class='ocr_line' id='line_1_6' title="bbox 407 2229 1211 2319; baseline -0.001 -1"><span class='ocrx_word' id='word_1_14' title='bbox 407 2265 708 2319; x_wconf 81' lang='lat' dir='ltr'>LEIPZIG</span> <span class='ocrx_word' id='word_1_15' title='bbox 774 2229 859 2319; x_wconf 56' lang='grc' dir='ltr'>ἓξ</span> <span class='ocrx_word' id='word_1_16' title='bbox 926 2265 1211 2318; x_wconf 79' lang='lat' dir='ltr'>BERLIN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 627 2388 1003 2429; baseline -0.003 0"><span class='ocrx_word' id='word_1_17' title='bbox 627 2388 865 2429; x_wconf 80' lang='lat' dir='ltr'>WINTER</span> <span class='ocrx_word' id='word_1_18' title='bbox 896 2388 1003 2429; x_wconf 82' lang='grc'><strong>1911</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
